@@ -1,0 +1,17 @@
+.Error_message {
+    widtH: 200px;
+    text-align: center;
+    background-color: rgb(255, 160, 160);
+    margin: auto;
+    padding: 10px;
+    margin-top: 7%;
+}
+
+.Display_message {
+    widtH: 250px;
+    text-align: center;
+    background-color: rgb(210, 210, 255);
+    margin: auto;
+    padding: 10px;
+    margin-top: 7%;
+}
