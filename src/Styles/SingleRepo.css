@@ -1,0 +1,38 @@
+.repo_box {
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.repo_heading {
+    width: 100%;
+    word-break: break-all;
+    /* background-color: red; */
+    font-size: 25px;
+    color: #4d88cf;
+}
+
+/* .repo_languages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} */
+
+.language {
+    /* padding: 5px; */
+    margin: 5px 5px;
+    display: inline-block;
+    background-color: #4d88cf;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 1010px) {
+    .repo_box {
+        margin: 10px 30px;
+    }
+}

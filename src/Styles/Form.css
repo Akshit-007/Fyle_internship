@@ -1,0 +1,33 @@
+.input_form {
+    text-align: center;
+}
+
+.form_title {
+    height: 60px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.search_input {
+    border: none;
+    padding: 7px;
+    font-size: 15px;
+    border-bottom: 1px solid black;
+}
+
+.search_input:focus {
+    outline: none;
+}
+
+.search_btn {
+    background-color: #4d88cf;
+    padding: 7px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.search_btn:hover {
+    cursor: pointer;
+}
